@@ -120,13 +120,6 @@ Me interesa especialmente aplicar IA para:
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOVENATE&show_icons=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GOVENATE&layout=compact&hide_border=true&theme=transparent)
-
----
-
 ## 📫 Contacto
 
 - 🌐 Portafolio: [goverstudioforge.com](https://goverstudioforge.com)
