@@ -1,50 +1,157 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Kevin 👋
 
-**[Tu rol, ej. Desarrollador Full Stack]** — construyo [qué tipo de cosas construyes, ej. aplicaciones web con Python y React].
+**Ingeniero de Software · Full Stack Developer · Coordinador de Proyectos**
 
-Actualmente [trabajando en / estudiando / buscando oportunidades en] **[área]**.
+Me gusta construir productos digitales completos, desde la **experiencia de usuario y el diseño de interfaces** hasta la **arquitectura, backend, infraestructura y despliegue**.
+
+No me interesa solamente escribir código. Me gusta diseñar sistemas que sean **modulares, escalables, mantenibles y profesionales**, pensando desde el inicio en cómo evolucionará el producto.
+
+También trabajo en **coordinación de proyectos y UI/UX** cuando el proyecto lo necesita.
+
+Actualmente desarrollo proyectos propios y profesionales, explorando especialmente **arquitectura de software, automatización, DevOps e inteligencia artificial aplicada a productos y procesos de desarrollo**.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack tecnológico
 
-**Lenguajes**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Lenguajes
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks y herramientas**
+### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat&logo=greensock&logoColor=black)
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=flat)
+
+### Bases de datos
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
+
+### DevOps & Infraestructura
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=flat)
 
-<!-- Borra los badges que no uses y añade los tuyos en https://shields.io -->
+### Diseño & Productividad
 
----
-
-## 📌 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [**nombre-proyecto**](https://github.com/USUARIO/nombre-proyecto) | Una frase: qué problema resuelve. | Python · FastAPI · Postgres |
-| [**otro-proyecto**](https://github.com/USUARIO/otro-proyecto) | Una frase: qué problema resuelve. | React · TypeScript |
-| [**tercer-proyecto**](https://github.com/USUARIO/tercer-proyecto) | Una frase: qué problema resuelve. | Next.js · Tailwind |
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 Estadísticas
+## 🧠 Cómo trabajo
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&hide_border=true&theme=default)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&hide_border=true)
+Me gusta desarrollar software con una visión de producto y no únicamente como una colección de funcionalidades.
 
-<!-- Opcional. Si tu actividad aún es baja, es mejor borrar esta sección. -->
+Normalmente trabajo alrededor de:
+
+- Arquitectura limpia
+- Sistemas modulares
+- APIs bien estructuradas
+- Escalabilidad
+- Rendimiento
+- Experiencia de usuario
+- UI/UX
+- Automatización
+- Scrum y sprints
+- Planeación y roadmaps
+- Diagramas y documentación
+- CI/CD y despliegues
+
+Intento encontrar soluciones elegantes antes que soluciones improvisadas y mantener una arquitectura que pueda evolucionar conforme crece el proyecto.
+
+---
+
+## 🚀 Proyectos
+
+| Proyecto | Descripción | Áreas |
+| --- | --- | --- |
+| **PWR27** | Proyecto de software enfocado en construir una solución completa y escalable. | Full Stack · Arquitectura · Producto |
+| **Territorial** | Plataforma relacionada con información y sistemas territoriales. | Full Stack · PostgreSQL · PostGIS |
+| **Revista Forense Criminológica** | Plataforma digital para contenido y publicación especializada. | Web · UI/UX · Desarrollo |
+| **Gover Studio Forge** | Proyecto enfocado en herramientas y desarrollo de productos digitales. | Software · Automatización · IA |
+
+<!-- Cuando los repos sean públicos, enlaza cada nombre así:
+     | [**PWR27**](https://github.com/GOVENATE/pwr27) | ... | -->
+
+---
+
+## 🤖 IA & Automatización
+
+También exploro cómo integrar inteligencia artificial dentro del flujo de desarrollo y de productos.
+
+Herramientas que utilizo:
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+
+Me interesa especialmente aplicar IA para:
+
+- Automatización de procesos
+- Desarrollo asistido por agentes
+- Análisis de información
+- Transcripción y procesamiento de reuniones
+- Herramientas internas
+- Integración de modelos mediante APIs
+- Mejora de workflows de desarrollo
+
+---
+
+## 💻 Entorno de desarrollo
+
+Mi entorno principal de desarrollo está basado en **macOS y Apple Silicon**, complementado con Linux para servidores e infraestructura.
+
+```text
+Editor      → VS Code
+Terminal    → iTerm2 + Zsh
+Shell       → Oh My Zsh + Starship
+Packages    → pnpm · Composer · Homebrew
+Containers  → Docker
+Design      → Figma
+Notes       → Notion · Obsidian
+Cloud       → AWS · VPS
+Versioning  → Git · GitHub
+```
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOVENATE&show_icons=true&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GOVENATE&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [linkedin.com/in/USUARIO](https://linkedin.com/in/USUARIO)
+- 📧 Email: [kalonso276@gmail.com](mailto:kalonso276@gmail.com)
+
+<!-- Descomenta y completa cuando los tengas:
+- 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
 - 🌐 Portafolio: [tusitio.com](https://tusitio.com)
-- 📧 Email: tu@email.com
+-->
+
+---
+
+> Me interesa construir software que no solo funcione, sino que esté bien diseñado, sea mantenible y pueda crecer.
