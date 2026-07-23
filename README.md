@@ -10,6 +10,10 @@ También trabajo en **coordinación de proyectos y UI/UX** cuando el proyecto lo
 
 Actualmente desarrollo proyectos propios y profesionales, explorando especialmente **arquitectura de software, automatización, DevOps e inteligencia artificial aplicada a productos y procesos de desarrollo**.
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-goverstudioforge.com-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://goverstudioforge.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Alonso-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-alonso-603156232)
+[![GitHub](https://img.shields.io/badge/GitHub-GOVENATE-181717?style=flat&logo=github&logoColor=white)](https://github.com/GOVENATE)
+
 ---
 
 ## 🛠️ Stack tecnológico
@@ -19,10 +23,7 @@ Actualmente desarrollo proyectos propios y profesionales, explorando especialmen
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frontend
 
@@ -30,6 +31,8 @@ Actualmente desarrollo proyectos propios y profesionales, explorando especialmen
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat&logo=greensock&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Backend
 
@@ -89,7 +92,7 @@ Intento encontrar soluciones elegantes antes que soluciones improvisadas y mante
 | **PWR27** | Proyecto de software enfocado en construir una solución completa y escalable. | Full Stack · Arquitectura · Producto |
 | **Territorial** | Plataforma relacionada con información y sistemas territoriales. | Full Stack · PostgreSQL · PostGIS |
 | **Revista Forense Criminológica** | Plataforma digital para contenido y publicación especializada. | Web · UI/UX · Desarrollo |
-| **Gover Studio Forge** | Proyecto enfocado en herramientas y desarrollo de productos digitales. | Software · Automatización · IA |
+| [**Gover Studio Forge**](https://goverstudioforge.com) | Estudio y herramientas para el desarrollo de productos digitales. | Software · Automatización · IA |
 
 <!-- Cuando los repos sean públicos, enlaza cada nombre así:
      | [**PWR27**](https://github.com/GOVENATE/pwr27) | ... | -->
@@ -104,7 +107,6 @@ Herramientas que utilizo:
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
 Me interesa especialmente aplicar IA para:
 
@@ -118,24 +120,6 @@ Me interesa especialmente aplicar IA para:
 
 ---
 
-## 💻 Entorno de desarrollo
-
-Mi entorno principal de desarrollo está basado en **macOS y Apple Silicon**, complementado con Linux para servidores e infraestructura.
-
-```text
-Editor      → VS Code
-Terminal    → iTerm2 + Zsh
-Shell       → Oh My Zsh + Starship
-Packages    → pnpm · Composer · Homebrew
-Containers  → Docker
-Design      → Figma
-Notes       → Notion · Obsidian
-Cloud       → AWS · VPS
-Versioning  → Git · GitHub
-```
-
----
-
 ## 📊 GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOVENATE&show_icons=true&hide_border=true&theme=transparent)
@@ -145,12 +129,10 @@ Versioning  → Git · GitHub
 
 ## 📫 Contacto
 
+- 🌐 Portafolio: [goverstudioforge.com](https://goverstudioforge.com)
+- 💼 LinkedIn: [kevin-alonso](https://www.linkedin.com/in/kevin-alonso-603156232)
+- 🐙 GitHub: [@GOVENATE](https://github.com/GOVENATE)
 - 📧 Email: [kalonso276@gmail.com](mailto:kalonso276@gmail.com)
-
-<!-- Descomenta y completa cuando los tengas:
-- 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- 🌐 Portafolio: [tusitio.com](https://tusitio.com)
--->
 
 ---
 
