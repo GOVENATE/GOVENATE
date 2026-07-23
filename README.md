@@ -130,3 +130,4 @@ Me interesa especialmente aplicar IA para:
 ---
 
 > Me interesa construir software que no solo funcione, sino que esté bien diseñado, sea mantenible y pueda crecer.
+
